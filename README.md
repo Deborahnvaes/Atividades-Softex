@@ -1,5 +1,5 @@
 
-# Curso de Front-End de Formação Acelerada na Softex Curso de Front-End de Formação Acelerada na Softex
+# Curso de Front-End de Formação Acelerada - Softex
 Bem-vindo ao repositório relacionado às atividades que desenvolvo no curso de Front-End de Formação Acelerada oferecido pela Softex. Este README tem como objetivo fornecer informações essenciais sobre o curso, os módulos abordados, as atividades realizadas e as plataformas exigidas durante o processo de aprendizagem.
 
 ## Sobre o CursoSobre o Curso  
