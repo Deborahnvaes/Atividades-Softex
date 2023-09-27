@@ -1,0 +1,146 @@
+@import 'header.css';
+@import 'section-home.css';
+@import 'section-about.css';
+@import 'section-project.css';
+@import 'section-contato.css';
+@import 'section-form.css';
+@import 'footer.css';
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600;700&display=swap');
+
+div {
+  display: block;
+}
+
+*,*::after, *::before {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  box-sizing: inherit;
+  font-family: inherit;
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+li{
+  list-style: none;
+}
+
+section{
+  display: block;
+}
+
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+
+#sobre{
+  background: #fefefe;
+}
+
+.sac-pad{
+  padding: 12rem;
+}
+
+.main-container{
+  max-width: 120rem;
+  margin: auto;
+  width: 92;
+  
+}
+
+
+
+.btn--theme {
+  background: #0062b9;
+  color: #fff;
+}
+
+.btn--med{
+  padding: 1.5rem 5rem;
+  font-size: 1.6rem;
+}
+
+.btn{
+  color: #999595;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  display: inline-block;
+  font-weight: 700;
+  border-radius: 5px;
+  box-shadow: 0 5px 15px 0 rgba(0,0,0,0.15);
+  transition: transform .3s;
+  margin-top: 80px;
+}
+
+
+
+@media only screen and (max-width: 75em){
+  html {
+    font-size: 59%;
+}
+}
+
+@media only screen and (max-width: 37.5em) {
+  .header__links {
+    display: none;
+}
+}
+
+@media only screen and (max-width: 37.5em) {
+  .header__main-ham-menu-cont {
+    display: block;
+}
+}
+@media only screen and (max-width: 37.5em){
+  .home-hero {
+      height: unset;
+      min-height: unset;
+  }
+}
+
+@media only screen and (max-width: 37.5em){
+  .home-hero__content {
+    padding: 19rem 0 13rem 0;
+    margin: auto;
+    position: static;
+    transform: translate(0, 0);
+}
+}
+
+@media only screen and (max-width: 37.5em){
+  .heading-primary {
+    font-size: 4.5rem;
+}
+}
+
+@media only screen and (max-width: 56.25em){
+  .home-hero__socials {
+    display: none;
+}
+}
+
+@media only screen and (max-width: 37.5em){
+  .home-hero__mouse-scroll-cont {
+    display: none;
+}
+}
+
+@media only screen and (max-width: 56.25em){
+  .sec-pad {
+    padding: 8rem 0;
+}
+}
+
+
+
