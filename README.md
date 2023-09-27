@@ -51,4 +51,3 @@ Trabalho em equipe em projetos colaborativos que visam simular o ambiente profis
 Para garantir uma experiência de aprendizado eficaz e alinhada com as demandas do mercado, a Softex utiliza diversas plataformas que facilitam o ensino e a prática de Front-End. As principais plataformas incluem:
 
 Plataforma de Aprendizado Online: Ferramenta de ensino online utilizada para acesso ao conteúdo do curso, aulas gravadas, materiais de estudo e avaliações.
->>>>>>> e0f33c492f8eab628a1e59298887e94bc41d83f6
