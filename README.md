@@ -1,18 +1,20 @@
 
-# Curso de Front-End de Formação Acelerada - Softex
+# Curso Front-End de formação acelerada - Softex 📚 
+
+
 Bem-vindo ao repositório relacionado às atividades que desenvolvo no curso de Front-End de Formação Acelerada oferecido pela Softex. Este README tem como objetivo fornecer informações essenciais sobre o curso, os módulos abordados, as atividades realizadas e as plataformas exigidas durante o processo de aprendizagem.
 
-## Sobre o CursoSobre o Curso  
+## Sobre o Curso ✎ 
 O curso de Front-End de Formação Acelerada oferecido pela Softex é uma oportunidade incrível para aprimorar minhas habilidades em desenvolvimento web, focando especificamente na interface do usuário (UI) e na experiência do usuário (UX). Durante o curso, tenho a oportunidade de aprender as mais recentes tecnologias e práticas que são essenciais para criar websites e aplicações web modernas e atraentes.
 
-Módulos do Curso
+## Módulos do Curso
 Os módulos abordados neste curso são os seguintes:
 
 1. ### Lógica de Programação
-Lógica de Programação: Fundamentos da lógica de programação para uma compreensão sólida dos conceitos básicos.
+Fundamentos da lógica de programação para uma compreensão sólida dos conceitos básicos.
 
 2.  ### JavaScript:  
-JavaScript: Aprofundamento no desenvolvimento em JavaScript, uma linguagem essencial para o Front-End.
+Aprofundamento no desenvolvimento em JavaScript, uma linguagem essencial para o Front-End.
 
 3. ### CSS:
 Estudo das folhas de estilo em cascata (CSS) para a estilização e formatação dos elementos HTML.
@@ -36,7 +38,7 @@ Abordagem aos conceitos e implementação de integração com serviços web.
 Durante o curso, tenho participado de uma variedade de atividades práticas e teóricas. Estas atividades incluem:
 
 ###### Aulas e Workshops
-Aulas e Workshops: Participação em aulas e workshops onde são abordados conceitos-chave, melhores práticas e técnicas avançadas de Front-End.
+Participação em aulas e workshops onde são abordados conceitos-chave, melhores práticas e técnicas avançadas de Front-End.
 
 ###### Projetos Práticos
 Desenvolvimento de projetos práticos que envolvem a aplicação dos conhecimentos adquiridos em aula.
