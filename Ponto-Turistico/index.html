@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Styles/styles.css">
+    <title>Pontos Turisticos</title>
+</head>
+<body>
+    <header class="header-container" id="header">
+        <div class="header-content">
+            <h1>RECIFE TURISMO</h1>
+            <button class="menu-toggle" onclick="toggleMenu()">Menu</button>
+            <nav class="nav-main" id="navMain">
+                <a href="#">INÍCIO</a>
+                <a href="#">SOBRE</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <section class="card-container">
+        
+            <div class="card" onmouseover="hoverCard(this)" onmouseout="unhoverCard(this)">
+                <img src="./Styles/assets/imagens/boa-viagem (1).jpg" alt="Praia de Boa Viagem" class="imagem">
+                <div class="titulo">PARAIA DE BOA VIAGEM</div>
+                <div class="descricao">Uma das praias mais famosas de Recife, com águas claras e piscinas naturais.</div>
+            </div>
+
+            <div class="card" onmouseover="hoverCard(this)" onmouseout="unhoverCard(this)">
+                <img src="./Styles/assets/imagens/marco-zero.jpg" alt="Praia de Boa Viagem" class="imagem">
+                <div class="titulo">MARCO ZERO</div>
+                <div class="descricao">O Centro Histórico é conhecido pelos seus edifícios coloniais, igrejas antigas, praças e o Marco Zero, que marca o início da contagem das distâncias nas estradas de Pernambuco.</div>
+            </div>
+
+            <div class="card" onmouseover="hoverCard(this)" onmouseout="unhoverCard(this)">
+                <img src="./Styles/assets/imagens/ricardo-brennand.jpg" alt="Praia de Boa Viagem" class="imagem">
+                <div class="titulo">INSTITUTO RICARDO BRENAND</div>
+                <div class="descricao">Um castelo com arquitetura medieval que abriga uma coleção de arte européia e brasileira, além de belos jardins.</div>
+            </div>
+
+            <div class="card" onmouseover="hoverCard(this)" onmouseout="unhoverCard(this)">
+                <img src="./Styles/assets/imagens/casa-cultura.jpg" alt="Praia de Boa Viagem" class="imagem">
+                <div class="titulo">CASA DA CULTURA</div>
+                <div class="descricao">Antiga prisão do século XIX que foi convertida em um mercado de artesanato e produtos típicos.</div>
+            </div>
+
+            <div class="card" onmouseover="hoverCard(this)" onmouseout="unhoverCard(this)">
+                <img src="./Styles/assets/imagens/itamaraca.jpg" alt="Praia de Boa Viagem" class="imagem">
+                <div class="titulo">ILHA DE ITAMARACÁ</div>
+                <div class="descricao">Localizada próxima a Recife, é uma ilha com praias lindas e atrações como o Forte Orange e o Centro de Preservação e Pesquisa das Tartarugas Marinhas.</div>
+            </div>
+
+            <div class="card" onmouseover="hoverCard(this)" onmouseout="unhoverCard(this)">
+                <img src="./Styles/assets/imagens/casa-cultura.jpg" alt="Praia de Boa Viagem" class="imagem">
+                <div class="titulo">CAIS DO SERTÃO</div>
+                <div class="descricao">Um museu interativo que homenageia a cultura do sertão nordestino.</div>
+            </div>
+    </section>
+
+    <footer class="main-footer">
+        <div class="main-container">
+          <div class="main-footer__upper">
+            <div class="main-footer__row main-footer__row-1">
+              <h2 class="heading heading-sm main-footer__heading-sm">
+                <span>SOCIAL</span>
+              </h2>
+            <div class="main-footer__social-cont">
+                <img class="main-footer__icon" src="./Styles/assets/imagens/linkedin.png" alt="icon">
+                <img  class="main-footer__icon" src="./Styles/assets/imagens/github.png" alt="icon">
+                <img class="main-footer__icon" src="./Styles/assets/imagens/twitter.png" alt="icon">
+                <img class="main-footer__icon" src="./Styles/assets/imagens/youtube.png" alt="icon">
+                <img class="main-footer__icon" src="./Styles/assets/imagens/instagram.png" alt="icon">
+            </div>
+            </div>
+            <div class="main-footer__row main-footer__row-2">
+              <h4 class="heading heading-sm text-lt">Atividade Softex</h4>
+            </div>
+          </div>
+          <div class="main-footer__lower">
+            © Copyright 2023. Made by Déborah Novaes
+          </div>
+        </div>
+      </footer>
+      <script src="./main.js"></script>
+</body>
+</html>
