@@ -6,5 +6,5 @@
 
   function unhoverCard(card) {
     card.style.transform = 'translateY(0)';  
-    card.style.transition = 'transform 0.3s ease-out'; 
+    card.style.transition = 'transform 0.3s ease-out';
   }
