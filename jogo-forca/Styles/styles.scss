@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Marmelad&family=Montserrat:wght@400;700&family=Poppins:wght@400;700&family=Ubuntu:wght@300;400;500&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 90vh;
+    margin-top: 20px;
+    background-color: darkcyan;
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items:center;
+        flex-wrap: wrap;
+        flex-direction: column; 
+        width: 100%;
+        background-repeat: no-repeat;
+    }
+    #palavraSecreta{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        font-size: 1em;
+    }
+    .letras{
+        width: 16px;
+        text-align: center;
+        border-bottom: 2px solid purple;
+        color: #fff;
+        padding: 2px;
+        margin-left: 2px;
+        margin-right: 2px;
+        
+    }
+    #teclado{
+        margin-top: 30px ;
+    }
+    .teclas button {
+        width: 24px;
+        height: 24px;
+        margin: 2px;
+        margin-bottom: 5px;
+        cursor: pointer;
+        box-shadow: 0 2px 8px rgba(92, 90, 90, 0.247);
+        border: 1px solid;
+        border-radius: 5px;
+        color: purple;
+        font-weight: 600;
+    } 
+
+    #categoria{
+        margin-top: 30px;
+        color: purple;
+        font-size: 1.2em;
+        font-family: 'Ubuntu', sans-serif;
+
+    }
+}
